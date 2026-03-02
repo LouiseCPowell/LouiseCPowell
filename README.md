@@ -3,7 +3,7 @@
 <h2>👨‍💻 Identity & Access Management (IAM) & Cybersecurity Risk Projects:</h2>
 
 - <b>Cyber Hygiene Scorecard — CAF-Aligned Control Maturity & Anomaly Monitoring</b>
-  - [Cyber Hygiene Scorecard for Small Businesses ](https://github.com/joshmadakor1/AD_PS)
+  - [Cyber Hygiene Scorecard for Small Businesses ] (https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)
 
 <h2> 🤳 Connect with me:</h2                   
                          

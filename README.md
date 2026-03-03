@@ -5,7 +5,6 @@
 ## 💫 About Me
 
 Operational IAM professional transitioning into Cybersecurity IAM, focused on governance monitoring, access lifecycle controls, and security posture analytics.
-Designing structured scoring models and anomaly detection solutions to support measurable, risk-informed identity governance.
 
 ## 🛡️ Featured Project  
 

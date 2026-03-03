@@ -4,55 +4,29 @@
 
 ## 💫 About Me
 
-Cybersecurity & Identity & Access Management (IAM) Analyst specialising in operational governance, risk-based access control, and control maturity assessment.
+Operational IAM professional transitioning into Cybersecurity IAM, focused on governance monitoring, access lifecycle controls, and security posture analytics.
+Designing structured scoring models and anomaly detection solutions to support measurable, risk-informed identity governance.
 
-I design structured scoring models and hybrid machine learning solutions (Random Forest + Isolation Forest) to support:
-
-- Security posture monitoring  
-- Risk-based access decision-making  
-- Anomaly detection in control environments  
-- Audit readiness & governance maturity improvement  
-
-My focus is turning cybersecurity control data into measurable, risk-informed intelligence.
-
-## 🛡️ Featured Project
+## 🛡️ Featured Project  
 
 ### Cyber Hygiene Scorecard  
-**Streamlit | Python | Hybrid Machine Learning | CAF-Aligned Governance**
+*Streamlit | Python | CAF-Aligned Governance*
 
-A cybersecurity assessment platform that:
+- Control maturity scoring (0–5 scale)  
+- Normalised security posture analytics  
+- Risk classification (Random Forest)  
+- Anomaly detection (Isolation Forest)  
 
-- Evaluates control maturity using structured scoring models  
-- Generates normalized cyber hygiene scores  
-- Classifies risk levels using Random Forest  
-- Detects anomalous control patterns using Isolation Forest  
-- Applies Stratified K-Fold Cross-Validation for model validation  
+🔗 Repository:  
+[Cyber Hygiene Scorecard](https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)
 
-🔗 **Repository:**  
-https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard
+## 💻 Technical Stack  
 
-## 🧠 Machine Learning in Security
+**Languages:**  
+Python  
 
-- **Random Forest** – Supervised cyber risk classification  
-- **Isolation Forest** – Unsupervised anomaly detection  
-- **Stratified K-Fold Cross Validation** – Robust model validation  
-- **Security Metrics** – Precision, Recall, F1-Score, Confusion Matrix  
-
-## 💻 Technical Skills
-
-### Languages
-- Python  
-
-### Frameworks & Tools
-- Streamlit  
-- Anaconda  
-- Jupyter Notebook  
-
-### Libraries
-- NumPy  
-- Pandas  
-- Scikit-learn  
-- Matplotlib  
+**Libraries & Tools:**  
+Pandas | NumPy | scikit-learn | Streamlit  
 
 ### Security & Governance Frameworks
 - NCSC Cyber Assessment Framework (CAF)  

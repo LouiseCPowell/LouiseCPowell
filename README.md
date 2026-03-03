@@ -7,7 +7,7 @@
 <b>Focused on access lifecycle governance and security posture analytics, I design structured scoring models and anomaly detection solutions to support measurable, risk-informed identity governance and control assurance.</b>
 
 <h2>🔐 Featured Project</h2>
-<h3>Cyber Hygiene Scorecard/h3>  
+<h3>Cyber Hygiene Scorecard</h3>  
 <b>Streamlit · Python · CAF-Aligned Governance)</b>
 
 <b>- Control maturity scoring (0–5 scale))</b>

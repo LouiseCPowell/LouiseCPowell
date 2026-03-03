@@ -1,40 +1,42 @@
+<h1>👩‍💻 Louise C Powell</h1>
+<h2>Operational IAM Analyst | Access Governance & Risk-Based Access Control</h2>
 
-# 👩‍💻 Louise C Powell
-**Operational IAM Analyst | Access Governance & Risk-Based Access Control**
+<h2>About Me</h2>
+<b>Operational IAM professional strengthening cybersecurity governance capability within Identity & Access Management.</b>
 
----
+<b>Focused on access lifecycle governance and security posture analytics, I design structured scoring models and anomaly detection solutions to support measurable, risk-informed identity governance and control assurance.</b>
 
-## About Me
-Operational IAM professional strengthening cybersecurity governance capability within Identity & Access Management.
+<h2>🔐 Featured Project</h2>
+<h3>Cyber Hygiene Scorecard/h3>  
+<b>Streamlit · Python · CAF-Aligned Governance)</b>
 
-Focused on access lifecycle governance and security posture analytics, I design structured scoring models and anomaly detection solutions to support measurable, risk-informed identity governance and control assurance.
-
----
-
-## 🔐 Featured Project
-### Cyber Hygiene Scorecard  
-*Streamlit · Python · CAF-Aligned Governance*
-
-- Control maturity scoring (0–5 scale)
-- Normalised security posture analytics
-- Risk classification (Random Forest)
-- Anomaly detection (Isolation Forest)
+<b>- Control maturity scoring (0–5 scale))</b>
+<b>- Normalised security posture analytics)</b>
+<b>- Risk classification (Random Forest))</b>
+<b>- Anomaly detection (Isolation Forest))</b>
 
 🔗 [Cyber Hygiene Scorecard](https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)
 
----
+<h2>Technical Stack </h2>
+<b>Python · Pandas · NumPy · scikit-learn · Streamlit</b>
 
-## Technical Stack
-Python · Pandas · NumPy · scikit-learn · Streamlit
+<h2>🏛️ Governance & Framework Alignment</h2>
+<b>NCSC Cyber Assessment Framework (CAF)</b>
+<b> Rohan Cybersecurity Maturity Model </b>
+<b>Cyber Guardian Framework (CGF)</b>
 
----
+<h2> 🤳 Connect with me:</h2>
+[<img align="left" alt="LouiseCPowell | LinkedIn" width="22px" src="[https://linkedin.com/in/louisecpowell)" />][linkedin]
+🔗 (https://linkedin.com/in/louisecpowell)
+<!--
+**LouiseCPowell/LouiseCPowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
-## 🏛️ Governance & Framework Alignment
-NCSC Cyber Assessment Framework (CAF)  
-Rohan Cybersecurity Maturity Model  
-Cyber Guardian Framework (CGF)
 
----
 
-## Connect
-🔗 [LinkedIn](https://linkedin.com/in/louisecpowell)
+
+
+
+
+
+
+

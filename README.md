@@ -2,8 +2,7 @@
 <h2>Operational IAM Analyst | Access Governance & Risk-Based Access Control</h2>
 
 <h2>About Me</h2>
-<b>Operational IAM professional strengthening cybersecurity governance within Identity & Access Management.
-Specialising in JML, RBAC validation, access reviews, and audit traceability, I support measurable, risk-informed identity governance and control assurance.</b>
+<b>Operational IAM professional strengthening cybersecurity governance within Identity & Access Management. Specialising in JML, RBAC validation, access reviews, and audit traceability, I design structured governance approaches that support measurable, risk-informed identity control assurance.</b>
 
 <h2>🔐 Featured Project</h2>
 <h3>Cybersecurity Governance & Risk Analytics</h3>  

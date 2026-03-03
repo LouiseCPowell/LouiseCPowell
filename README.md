@@ -1,41 +1,69 @@
-# 👩‍💻 Louise C Powell
+# 👩‍💻 Louise C Powell  
+
+**Cybersecurity & IAM Analyst | AI-Driven Risk Analytics | Governance & Control Maturity**
 
 ## 💫 About Me
-Cybersecurity & Identity & Access Management (IAM) Analyst focused on operational governance, risk-based access control, and control maturity assessment.
 
-I design structured scoring models and hybrid machine learning solutions (classification + anomaly detection) to support security posture monitoring, audit readiness, and risk-informed decision-making.
+Cybersecurity & Identity & Access Management (IAM) Analyst specialising in operational governance, risk-based access control, and control maturity assessment.
 
-## 💻 Tech Stack
-**Languages:**  
-Python  
+I design structured scoring models and hybrid machine learning solutions (Random Forest + Isolation Forest) to support:
 
-**Frameworks & Tools:**  
-Streamlit | Anaconda | Jupyter Notebook  
+- Security posture monitoring  
+- Risk-based access decision-making  
+- Anomaly detection in control environments  
+- Audit readiness & governance maturity improvement  
 
-**Libraries:**  
-NumPy | Pandas | Scikit-learn | Matplotlib  
+My focus is turning cybersecurity control data into measurable, risk-informed intelligence.
 
-**Security & Governance Frameworks:**  
-NCSC Cyber Assessment Framework (CAF) | Rohan Cybersecurity Maturity Model | Cyber Guardian Framework  
+## 🛡️ Featured Project
 
-**Machine Learning:**  
-Random Forest (Supervised Classification)  
-Isolation Forest (Unsupervised Anomaly Detection)  
-Stratified K-Fold Cross-Validation | Performance Metrics (Precision, Recall, F1)
+### Cyber Hygiene Scorecard  
+**Streamlit | Python | Hybrid Machine Learning | CAF-Aligned Governance**
 
-## 👨‍💻 Featured Project
+A cybersecurity assessment platform that:
 
-### 🛡️ Cyber Hygiene Scorecard — CAF-Aligned Control Maturity & AI Risk Monitoring  
-A Streamlit-based cybersecurity assessment platform that evaluates control maturity, generates normalized hygiene scores, and applies a hybrid ML approach (Random Forest + Isolation Forest) to classify risk levels and detect anomalous control patterns.
+- Evaluates control maturity using structured scoring models  
+- Generates normalized cyber hygiene scores  
+- Classifies risk levels using Random Forest  
+- Detects anomalous control patterns using Isolation Forest  
+- Applies Stratified K-Fold Cross-Validation for model validation  
 
-🔗 **Project Repository:**  
-[Cyber Hygiene Scorecard for Small Businesses](https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)
+🔗 **Repository:**  
+https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard
+
+## 🧠 Machine Learning in Security
+
+- **Random Forest** – Supervised cyber risk classification  
+- **Isolation Forest** – Unsupervised anomaly detection  
+- **Stratified K-Fold Cross Validation** – Robust model validation  
+- **Security Metrics** – Precision, Recall, F1-Score, Confusion Matrix  
+
+## 💻 Technical Skills
+
+### Languages
+- Python  
+
+### Frameworks & Tools
+- Streamlit  
+- Anaconda  
+- Jupyter Notebook  
+
+### Libraries
+- NumPy  
+- Pandas  
+- Scikit-learn  
+- Matplotlib  
+
+### Security & Governance Frameworks
+- NCSC Cyber Assessment Framework (CAF)  
+- Rohan Cybersecurity Maturity Model  
+- Cyber Guardian Framework  
 
 ## 📊 GitHub Stats
-<!-- You can add GitHub stats badges here if desired -->
 
-<h2> 🤳 Connect with me:</h2                   
-                         
-[<img align="left" alt="LouiseCPowell | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+![Louise's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LouiseCPowell&show_icons=true)
 
-[linkedin]: https://linkedin.com/in/louisecpowell
+## 🤝 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/louisecpowell
+- GitHub: https://github.com/LouiseCPowell

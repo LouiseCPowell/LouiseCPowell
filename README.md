@@ -17,14 +17,6 @@
 
 🔗 [Cyber Hygiene Scorecard](https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)
 
-<h2>Technical Stack </h2>
-<b>Python · Pandas · NumPy · scikit-learn · Streamlit</b>
-
-<h2>🏛️ Governance & Framework Alignment</h2>
-<b>NCSC Cyber Assessment Framework (CAF)
- Rohan Cybersecurity Maturity Model 
-Cyber Guardian Framework (CGF)</b>
-
 <h2> 🤳 Connect with me:</h2>
 
 🔗 (https://linkedin.com/in/louisecpowell)

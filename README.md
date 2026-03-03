@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cybersecurity & IAM Analyst | Risk-Based Access Control | AI-Driven Governance Building identity governance, control maturity scoring & risk profiling solution
+Cybersecurity & Identity & Access Management (IAM) Analyst focused on risk-based access control, control maturity assessment, and AI-assisted governance monitoring. I design structured scoring models and anomaly detection tools to support operational security posture and identity governance decision-making.
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -12,9 +12,7 @@ Cybersecurity & IAM Analyst | Risk-Based Access Control | AI-Driven Governance B
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h1>Hi, I'm Louise!
-
-<h2>👨‍💻 Identity & Access Management (IAM) & Cybersecurity Risk Projects:</h2>
+<h2>👨‍💻 Featured Project:</h2>
 
 - <b>Cyber Hygiene Scorecard — CAF-Aligned Control Maturity & Anomaly Monitoring</b>
   - [Cyber Hygiene Scorecard for Small Businesses ] (https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)

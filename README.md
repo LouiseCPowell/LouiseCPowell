@@ -7,8 +7,7 @@
 <b>Focused on access lifecycle governance and security posture analytics, I design structured scoring models and anomaly detection solutions to support measurable, risk-informed identity governance and control assurance.</b>
 
 <h2>🔐 Featured Project</h2>
-<h3>Cyber Hygiene Scorecard</h3>  
-
+<h3>Cybersecurity Governance & Risk Analytics</h3>  
 <b>A governance-led security capability providing measurable oversight of control maturity and risk exposure to support audit readiness, remediation prioritisation, and enhanced control assurance.</b>
 
 🔗 [Cyber Hygiene Scorecard](https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)

@@ -11,7 +11,6 @@ Cybersecurity & Identity & Access Management (IAM) Analyst focused on risk-based
 [![](https://visitcount.itsvg.in/api?id=LouiseCPowell&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <h2>👨‍💻 Featured Project:</h2>
 
 - <b>Cyber Hygiene Scorecard — CAF-Aligned Control Maturity & Anomaly Monitoring</b>

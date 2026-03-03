@@ -1,43 +1,25 @@
 # 👩‍💻 Louise C Powell  
 
-**Cybersecurity & IAM Analyst | AI-Driven Risk Analytics | Governance & Control Maturity**
+Operational IAM Analyst | Cybersecurity Governance & Risk-Based Access Control
 
 ## 💫 About Me
-
-Operational IAM professional transitioning into Cybersecurity IAM, focused on governance monitoring, access lifecycle controls, and security posture analytics.
+Operational IAM professional expanding into Cybersecurity IAM, focused on access lifecycle governance and security posture analytics.
 Developing structured scoring models and anomaly detection solutions to support measurable, risk-informed identity governance.
 
-## 🛡️ Featured Project  
+## 🛡️ Featured Project
+### Cyber Hygiene Scorecard
+Streamlit | Python | CAF-Aligned Governance
 
-### Cyber Hygiene Scorecard  
-*Streamlit | Python | CAF-Aligned Governance*
+- Control maturity scoring (0–5 scale)
+- Normalised security posture analytics
+- Risk classification (Random Forest)
+- Anomaly detection (Isolation Forest)
 
-- Control maturity scoring (0–5 scale)  
-- Normalised security posture analytics  
-- Risk classification (Random Forest)  
-- Anomaly detection (Isolation Forest)  
+🔗 Repository:
+Cyber Hygiene Scorecard
 
-🔗 Repository:  
-[Cyber Hygiene Scorecard](https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)
+## 💻 Technical Stack
+Python | Pandas | NumPy | scikit-learn | Streamlit
 
-## 💻 Technical Stack  
-
-**Languages:**  
-Python  
-
-**Libraries & Tools:**  
-Pandas | NumPy | scikit-learn | Streamlit  
-
-### Security & Governance Frameworks
-- NCSC Cyber Assessment Framework (CAF)  
-- Rohan Cybersecurity Maturity Model  
-- Cyber Guardian Framework  
-
-## 📊 GitHub Stats
-
-![Louise's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LouiseCPowell&show_icons=true)
-
-## 🤝 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/louisecpowell
-- GitHub: https://github.com/LouiseCPowell
+## 🤝 Connect
+LinkedIn: https://linkedin.com/in/louisecpowell

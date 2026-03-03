@@ -40,7 +40,3 @@ Cyber Guardian Framework (CGF)
 ## 🤝 Connect
 
 [LinkedIn](https://linkedin.com/in/louisecpowell)
-
-## 🤝 Connect
-
-[LinkedIn](https://linkedin.com/in/louisecpowell)

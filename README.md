@@ -20,12 +20,12 @@ Focused on access lifecycle governance and security posture analytics, I design 
 🔗 [View Repository](https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)
 
 ## Technical Stack
-Python · Pandas · NumPy · scikit-learn · Streamlit
+- Python · Pandas · NumPy · scikit-learn · Streamlit
 
 ## 🏛️ Governance & Framework Alignment
-NCSC Cyber Assessment Framework (CAF)  
-Rohan Cybersecurity Maturity Model  
-Cyber Guardian Framework (CGF)
+- NCSC Cyber Assessment Framework (CAF)  
+- Rohan Cybersecurity Maturity Model  
+- Cyber Guardian Framework (CGF)
 
 ## Connect
 [LinkedIn](https://linkedin.com/in/louisecpowell)

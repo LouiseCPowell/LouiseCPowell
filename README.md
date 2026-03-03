@@ -1,22 +1,38 @@
-# 💫 About Me:
-Cybersecurity & Identity & Access Management (IAM) analyst focused on operational governance, risk-based access control, and control maturity assessment.
+# 👩‍💻 Louise C Powell
 
-Designing scoring models and anomaly detection tools to support structured security posture monitoring.
+## 💫 About Me
+Cybersecurity & Identity & Access Management (IAM) Analyst focused on operational governance, risk-based access control, and control maturity assessment.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LouiseCPowell&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=LouiseCPowell&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LouiseCPowell&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I design structured scoring models and hybrid machine learning solutions (classification + anomaly detection) to support security posture monitoring, audit readiness, and risk-informed decision-making.
 
-[![](https://visitcount.itsvg.in/api?id=LouiseCPowell&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💻 Tech Stack
+**Languages:**  
+Python  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h2>👨‍💻 Featured Project:</h2>
+**Frameworks & Tools:**  
+Streamlit | Anaconda | Jupyter Notebook  
 
-- <b>Cyber Hygiene Scorecard — CAF-Aligned Control Maturity & Anomaly Monitoring</b>
-  - [Cyber Hygiene Scorecard for Small Businesses ] (https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)
+**Libraries:**  
+NumPy | Pandas | Scikit-learn | Matplotlib  
+
+**Security & Governance Frameworks:**  
+NCSC Cyber Assessment Framework (CAF) | Rohan Cybersecurity Maturity Model | Cyber Guardian Framework  
+
+**Machine Learning:**  
+Random Forest (Supervised Classification)  
+Isolation Forest (Unsupervised Anomaly Detection)  
+Stratified K-Fold Cross-Validation | Performance Metrics (Precision, Recall, F1)
+
+## 👨‍💻 Featured Project
+
+### 🛡️ Cyber Hygiene Scorecard — CAF-Aligned Control Maturity & AI Risk Monitoring  
+A Streamlit-based cybersecurity assessment platform that evaluates control maturity, generates normalized hygiene scores, and applies a hybrid ML approach (Random Forest + Isolation Forest) to classify risk levels and detect anomalous control patterns.
+
+🔗 **Project Repository:**  
+[Cyber Hygiene Scorecard for Small Businesses](https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)
+
+## 📊 GitHub Stats
+<!-- You can add GitHub stats badges here if desired -->
 
 <h2> 🤳 Connect with me:</h2                   
                          

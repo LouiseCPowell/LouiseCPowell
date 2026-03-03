@@ -1,6 +1,6 @@
 # 👩‍💻 Louise C Powell  
 
-Operational IAM Analyst | Cybersecurity Governance & Risk-Based Access Control
+Operational IAM Analyst | Access Governance & Risk-Based Access Control
 
 ## 💫 About Me
 Operational IAM professional expanding into Cybersecurity IAM, focused on access lifecycle governance and security posture analytics.

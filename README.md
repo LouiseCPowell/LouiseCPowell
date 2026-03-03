@@ -2,7 +2,7 @@
 
 **Operational IAM Analyst | Access Governance & Risk-Based Access Control**
 
-## 💫 About Me
+## About Me
 
 Operational IAM professional strengthening cybersecurity governance capability within Identity & Access Management.
 
@@ -10,7 +10,7 @@ Focused on access lifecycle governance and security posture analytics, I design 
 
 ## 🛡️ Featured Project
 
-### 🔐 Cyber Hygiene Scorecard  
+### Cyber Hygiene Scorecard  
 *Streamlit · Python · CAF-Aligned Governance*
 
 - Control maturity scoring (0–5 scale)  
@@ -21,22 +21,14 @@ Focused on access lifecycle governance and security posture analytics, I design 
 🔗 **Repository:**  
 [Cyber Hygiene Scorecard](https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)
 
-## 💻 Technical Stack
-
-**Language**  
-Python  
-
-**Data & ML**  
-Pandas · NumPy · scikit-learn  
-
-**Application Layer**  
-Streamlit 
+## Technical Stack
+Python  · Pandas · NumPy · scikit-learn · Streamlit 
 
 ## 🏛️ Governance & Framework Alignment
 NCSC Cyber Assessment Framework (CAF)  
 Rohan Cybersecurity Maturity Model  
 Cyber Guardian Framework (CGF)
 
-## 🤝 Connect
+## Connect
 
 [LinkedIn](https://linkedin.com/in/louisecpowell)

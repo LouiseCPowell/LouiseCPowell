@@ -21,12 +21,12 @@
 <b>Python · Pandas · NumPy · scikit-learn · Streamlit</b>
 
 <h2>🏛️ Governance & Framework Alignment</h2>
-<b>NCSC Cyber Assessment Framework (CAF)</b>
-<b> Rohan Cybersecurity Maturity Model </b>
-<b>Cyber Guardian Framework (CGF)</b>
+<b>NCSC Cyber Assessment Framework (CAF)
+ Rohan Cybersecurity Maturity Model 
+Cyber Guardian Framework (CGF)</b>
 
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="LouiseCPowell | LinkedIn" width="22px" src="[https://linkedin.com/in/louisecpowell)" />][linkedin]
+
 🔗 (https://linkedin.com/in/louisecpowell)
 <!--
 **LouiseCPowell/LouiseCPowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile

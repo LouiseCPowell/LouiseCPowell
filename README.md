@@ -12,7 +12,9 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-🔗 [Linkedin] [https://linkedin.com/in/louisecpowell)
+🔗 [linkedin](https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)
+
+🔗 [Linkedin]: https://linkedin.com/in/louisecpowell
 
 <!--
 **LouiseCPowell/LouiseCPowell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile

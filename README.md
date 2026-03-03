@@ -17,7 +17,7 @@ Focused on access lifecycle governance and security posture analytics, I design 
 - Risk classification (Random Forest)
 - Anomaly detection (Isolation Forest)
 
-🔗(https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)
+🔗[Cyber Hygiene Scorecard](https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)
 
 ## Technical Stack
 - Python · Pandas · NumPy · scikit-learn · Streamlit
@@ -28,4 +28,4 @@ Focused on access lifecycle governance and security posture analytics, I design 
 - Cyber Guardian Framework (CGF)
 
 ## Connect
-[LinkedIn](https://linkedin.com/in/louisecpowell)
+🔗[LinkedIn](https://linkedin.com/in/louisecpowell)

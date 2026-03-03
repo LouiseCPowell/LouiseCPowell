@@ -9,7 +9,7 @@
 <h2>🔐 Featured Project</h2>
 <h3>Cyber Hygiene Scorecard</h3>  
 
-<b>A structured security governance capability that measures control maturity, identifies risk exposure, and supports data-driven remediation prioritisation. Designed to enhance audit readiness, strengthen control assurance, and provide measurable oversight aligned to recognised cybersecurity frameworks.</b>
+<b>A governance-led security capability providing measurable oversight of control maturity and risk exposure to support audit readiness, remediation prioritisation, and enhanced control assurance.</b>
 
 🔗 [Cyber Hygiene Scorecard](https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)
 

@@ -1,16 +1,19 @@
-# 👩‍💻 Louise C Powell
-
+# Louise C Powell  
 **Operational IAM Analyst | Access Governance & Risk-Based Access Control**
 
-## 💫 About Me
+---
+
+## About Me
 
 Operational IAM professional strengthening cybersecurity governance capability within Identity & Access Management.
 
 Focused on access lifecycle governance and security posture analytics, I design structured scoring models and anomaly detection solutions that support measurable, risk-informed identity governance and control assurance.
 
-## 🛡️ Featured Project
+---
 
-### 🔐 Cyber Hygiene Scorecard  
+## Featured Project
+
+### Cyber Hygiene Scorecard  
 *Streamlit · Python · CAF-Aligned Governance*
 
 - Control maturity scoring (0–5 scale)  
@@ -18,20 +21,17 @@ Focused on access lifecycle governance and security posture analytics, I design 
 - Risk classification (Random Forest)  
 - Anomaly detection (Isolation Forest)  
 
-🔗 **Repository:**  
-[Cyber Hygiene Scorecard](https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)
+🔗 [View Repository](https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)
 
-## 💻 Technical Stack
+---
 
-**Language**  
-Python  
+## Technical Stack
 
-**Data & ML**  
-Pandas · NumPy · scikit-learn  
+**Python**  
+Pandas · NumPy · scikit-learn · Streamlit  
 
-**Application Layer**  
-Streamlit  
+---
 
-## 🤝 Connect
+## Connect
 
 [LinkedIn](https://linkedin.com/in/louisecpowell)

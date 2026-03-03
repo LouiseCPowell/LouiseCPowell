@@ -8,12 +8,8 @@
 
 <h2>🔐 Featured Project</h2>
 <h3>Cyber Hygiene Scorecard</h3>  
-<b>Streamlit · Python · CAF-Aligned Governance)</b>
 
-<b>- Control maturity scoring (0–5 scale))</b>
-<b>- Normalised security posture analytics)</b>
-<b>- Risk classification (Random Forest))</b>
-<b>- Anomaly detection (Isolation Forest))</b>
+<b>A structured security governance capability that measures control maturity, identifies risk exposure, and supports data-driven remediation prioritisation. Designed to enhance audit readiness, strengthen control assurance, and provide measurable oversight aligned to recognised cybersecurity frameworks.</b>
 
 🔗 [Cyber Hygiene Scorecard](https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)
 

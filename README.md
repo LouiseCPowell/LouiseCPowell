@@ -3,8 +3,9 @@
 Operational IAM Analyst | Access Governance & Risk-Based Access Control
 
 ## 💫 About Me
-Operational IAM professional expanding into Cybersecurity IAM, focused on access lifecycle governance and security posture analytics.
-Developing structured scoring models and anomaly detection solutions to support measurable, risk-informed identity governance.
+
+Operational IAM professional strengthening cybersecurity governance capability within Identity & Access Management.
+Focused on access lifecycle governance and security posture analytics, I develop structured scoring models and anomaly detection solutions to support measurable, risk-informed identity governance and control assurance.
 
 ## 🛡️ Featured Project
 ### Cyber Hygiene Scorecard

@@ -1,5 +1,5 @@
 <h1>👩‍💻 Louise C Powell</h1>
-<h2>Operational IAM Analyst | Access Governance & Risk-Based Access Control(RBAC)</h2>
+<h2>Operational IAM Analyst | Access Governance & Risk-Based Access Control (RBAC)</h2>
 
 <h2>About Me</h2>
 <b>Operational IAM professional specialising in JML, RBAC validation, access reviews, and audit traceability within regulated environments. I contribute to structured governance and risk-informed access control processes that strengthen identity assurance and compliance oversight. Together, these projects demonstrate my focus on strengthening Identity & Access Management through structured governance, measurable control maturity, and risk-informed access oversight.</b>

@@ -2,11 +2,11 @@
 <h2>Operational IAM Analyst | Access Governance & Risk-Based Access Control</h2>
 
 <h2>About Me</h2>
-<b>Operational IAM professional specialising in JML, RBAC validation, access reviews, and audit traceability within regulated environments. I contribute to structured governance and risk-informed access control processes that strengthen identity assurance and compliance oversight.Together, these projects demonstrate my focus on strengthening Identity & Access Management through structured governance, measurable control maturity, and risk-informed access oversight.</b>
+<b>Operational IAM professional specialising in JML, RBAC validation, access reviews, and audit traceability within regulated environments. I contribute to structured governance and risk-informed access control processes that strengthen identity assurance and compliance oversight. Together, these projects demonstrate my focus on strengthening Identity & Access Management through structured governance, measurable control maturity, and risk-informed access oversight.</b>
 
 <h2>🔐 Featured Project</h2>
 <h3>Identity Governance & Control Maturity Analytics</h3>  
-<b>A governance-led security capability providing measurable oversight of control maturity and risk exposure to support audit readiness, remediation prioritisation, and enhanced control assurance. The projects apply governance and risk analysis to practical IAM controls such as access lifecycle management, RBAC validation, and identity assurance monitoring..</b> 
+<b>A governance-led security capability providing measurable oversight of control maturity and risk exposure to support audit readiness, remediation prioritisation, and enhanced control assurance. The projects apply governance and risk analysis to practical IAM controls such as access lifecycle management, RBAC validation, and identity assurance monitoring.</b> 
 
 🔗 [Cyber Hygiene Scorecard](https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)
 

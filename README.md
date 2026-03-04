@@ -6,7 +6,7 @@
 
 <h2>🔐 Featured Project</h2>
 <h3>Identity Governance & Control Maturity Analytics</h3>  
-<b>A governance-led security capability providing measurable oversight of control maturity and risk exposure to support audit readiness, remediation prioritisation, and enhanced control assurance.</b> 
+<b>A governance-led security capability providing measurable oversight of control maturity and risk exposure to support audit readiness, remediation prioritisation, and enhanced control assurance. The projects apply governance and risk analysis to practical IAM controls such as access lifecycle management, RBAC validation, and identity assurance monitoring..</b> 
 
 🔗 [Cyber Hygiene Scorecard](https://github.com/LouiseCPowell/Cyber-Hygiene-Scorecard)
 
